@@ -9,6 +9,6 @@ Things considered include:
 - a literal "-" filename
 - colons in filenames (for tools like rsync)
 - circular symlinks
-- a named pipe (for grep -R)
+- a named pipe (for grep -R) did not make it into git (mkfifo cecicestunepipe)
 - filenames that are historically reserved in Windows
 
